@@ -1,0 +1,56 @@
+[
+   {
+    "id": 145,
+    "name": "macho temple",
+    "imageUrl": "https://raw.githubusercontent.com/harvsssss/harvin/master/mach.jpg",
+    "price": 90,
+    "priceCurrency": "PESO",
+    "lat": 16.621154,
+    "lng": 120.317432
+  },
+  {
+    "id": 148,
+    "name": "biak na bato",
+    "imageUrl": "https://raw.githubusercontent.com/harvsssss/harvin/master/asd.jpg",
+    "price": 200,
+    "priceCurrency": "PESO",
+    "lat": 16.847121,
+    "lng": 120.351404
+  },
+  {
+    "id": 201,
+    "name": "Baluarte",
+    "imageUrl": "https://raw.githubusercontent.com/harvsssss/harvin/master/bal.jpg",
+    "price": 150,
+    "priceCurrency": "PESO",
+    "lat": 16.856737,
+    "lng": 120.372824
+  },
+  {
+    "id": 205,
+    "name": "grape farm",
+    "imageUrl": "https://raw.githubusercontent.com/harvsssss/harvin/master/g.jpg",
+    "price": 115,
+    "priceCurrency": "PESO",
+    "lat": 16.461110,
+    "lng": 120.333913
+  },
+  {
+    "id": 210,
+    "name": "pugad",
+    "imageUrl": "https://raw.githubusercontent.com/harvsssss/harvin/master/pugad.jpg",
+    "price": 135,
+    "priceCurrency": "PESO",
+    "lat": 16.336694,
+    "lng": 120.478832
+  },
+  {
+    "id": 211,
+    "name": "Thunder bird",
+    "imageUrl": "https://raw.githubusercontent.com/harvsssss/harvin/master/thunder.jpg",
+    "price": 8.829,
+    "priceCurrency": "PESO",
+    "lat": 16.609159,
+    "lng": 120.286429
+  } 
+]
